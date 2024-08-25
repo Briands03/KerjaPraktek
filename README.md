@@ -1,2 +1,2 @@
-Sistem Informasi Penggajian Karyawan
-Sistem ini dibuat menggunakan bahasa pemograman PHP
+Sistem Informasi Penggajian Karyawan menggunakan bahasa pemograman PHP
+
